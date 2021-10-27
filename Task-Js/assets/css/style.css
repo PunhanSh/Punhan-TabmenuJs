@@ -1,0 +1,57 @@
+body {
+  height: 700px;
+}
+
+body .button-click {
+  background-color: #555;
+  color: white;
+  float: left;
+  border: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 19px;
+  width: 25%;
+  font-weight: bold;
+}
+
+body .image-text {
+  padding: 100px 20px;
+  height: 700px;
+}
+
+body .image-text h2 {
+  font-weight: bold;
+}
+
+body .button-click:hover {
+  background-color: #777;
+}
+
+body #spring {
+  background-image: url(../img/spring.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  color: pink;
+}
+
+body #summer {
+  background-image: url(../img/summer.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  color: green;
+}
+
+body #autumn {
+  background-image: url(../img/autumn.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #a5432a;
+}
+
+body #winter {
+  background-image: url(../img/winter.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  color: rgba(6, 197, 255, 0.986);
+}
+/*# sourceMappingURL=style.css.map */
